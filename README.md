@@ -18,7 +18,7 @@ Este projeto fornece um arquivo JSON contendo credenciais de exemplo e URLs de l
 Cada entrada possui os seguintes campos:
 
 - `url`: URL completa da página de login
-- `username`: Nome de usuário (CPF)
+- `username`: Nome de usuário
 - `password`: Senha
 - `line`: Linha formatada para uso rápido (com delimitadores)
 
